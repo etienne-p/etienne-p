@@ -32,7 +32,7 @@ _I distinguish between recent projects and those preceding my time at Unity._
 
 * [CSoundGeneticSynthesis](https://github.com/etienne-p/CSoundGeneticSynthesis) | Genetic Programming Applied To Sound Synthesis. An Evolutionary Algorithm is used to generate audio synthesis CSound code. See the [pdf file](https://github.com/etienne-p/CSoundGeneticSynthesis/blob/master/EvolutionarySynthesis.pdf) in the repository.
 * [UnityLibPD](https://github.com/etienne-p/UnityLibPD) | An integration of Pure Data (Visual Audio Programming) in Unity using the Native Audio API
-* [Pluck](https://vimeo.com/161510988) | Mobile app sound toy, made with openFrameworks in C++.
+* [Pluck](https://vimeo.com/161510988) | Experimental audio creation app for mobile devices, [made with openFrameworks in C++ (github)](https://github.com/etienne-p/Pluck).
 * [DrumBot](https://vimeo.com/113220254) | A drum machine using a cellular automaton as its sequencer, [made with SuperCollider (github)](https://github.com/etienne-p/DrumBot).
 
 ## Miscellaneous
