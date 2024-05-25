@@ -12,6 +12,7 @@ _I distinguish between recent projects and those preceding my time at Unity._
 
 ## Recent
 
+* [CUDA-Photogrammetry-Rotation-Estimation](https://github.com/etienne-p/CUDA-Photogrammetry-Rotation-Estimation) | Estimation of the rotation of a geometric dataset based on its normals. Implemented using CUDA.
 * [ofxPolygonTriangulation](https://github.com/etienne-p/ofxPolygonTriangulation) | an OpenFrameworks addon for Computational Geometry in C++.
 * [UnityGaussianMixtureModel](https://github.com/etienne-p/UnityGaussianMixtureModel) | An implementation of a Gaussian Mixture Model (Machine Learning Clustering technique) in Unity using Compute Shaders.
 * [UnityMorphologicalAntialiasing](https://github.com/etienne-p/UnityMorphologicalAntialiasing) | An implementation of Morphological Antialiasing for Unity's Universal Render Pipeline.
