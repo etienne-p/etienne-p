@@ -1,6 +1,6 @@
 ## Hi! I'm Etienne
 
-Currently building Digital Twins tools at Prevu3D. Previously building [Virtual Production](https://www.youtube.com/watch?v=Bn-QU4iGbw0) tools at Unity, at the crossroads of gaming and film. before that,
+Currently building Digital Twins tools at Prevu3D. Previously building [Virtual Production](https://www.youtube.com/watch?v=Bn-QU4iGbw0) tools at Unity, at the crossroads of gaming and film. Before that,
 Lead Unity and R&D Developer at [Dpt](https://dpt.co/en/). My interests are in Computer Graphics, Generative and Procedural Systems, Audio Programming,
 Tools Making, Artificial Intelligence... Self taught, curious, always eager to learn.
 
