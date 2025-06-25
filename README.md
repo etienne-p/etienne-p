@@ -1,6 +1,6 @@
 ## Hi! I'm Etienne
 
-Last seen building [Virtual Production](https://www.youtube.com/watch?v=Bn-QU4iGbw0) tools at Unity, at the crossroads of gaming and film. Previously
+Currently building Digital Twins tools at Prevu3D. Previously building [Virtual Production](https://www.youtube.com/watch?v=Bn-QU4iGbw0) tools at Unity, at the crossroads of gaming and film. before that,
 Lead Unity and R&D Developer at [Dpt](https://dpt.co/en/). My interests are in Computer Graphics, Generative and Procedural Systems, Audio Programming,
 Tools Making, Artificial Intelligence... Self taught, curious, always eager to learn.
 
@@ -12,6 +12,8 @@ _I distinguish between recent projects and those preceding my time at Unity._
 
 ## Recent
 
+* [CUDAGaussianRenderer](https://github.com/etienne-p/CUDAGaussianRenderer) | A Gaussian Splats Renderer built from scratch with CUDA.
+* [Line-Disc-Distance](https://github.com/etienne-p/Line-Disc-Distance) | Distance between a line and a disc.
 * [CUDA-Photogrammetry-Rotation-Estimation](https://github.com/etienne-p/CUDA-Photogrammetry-Rotation-Estimation) | Estimation of the rotation of a geometric dataset based on its normals. Implemented using CUDA.
 * [ofxPolygonTriangulation](https://github.com/etienne-p/ofxPolygonTriangulation) | an OpenFrameworks addon for Computational Geometry in C++.
 * [UnityGaussianMixtureModel](https://github.com/etienne-p/UnityGaussianMixtureModel) | An implementation of a Gaussian Mixture Model (Machine Learning Clustering technique) in Unity using Compute Shaders.
