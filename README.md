@@ -1,17 +1,20 @@
 ## Hi! I'm Etienne
 
-Currently building Digital Twins tools at Prevu3D. Previously building [Virtual Production](https://www.youtube.com/watch?v=Bn-QU4iGbw0) tools at Unity, at the crossroads of gaming and film. Before that,
-Lead Unity and R&D Developer at [Dpt](https://dpt.co/en/). My interests are in Computer Graphics, Generative and Procedural Systems, Audio Programming,
-Tools Making, Artificial Intelligence... Self taught, curious, always eager to learn.
+Self taught, curious, always eager to learn. My current focus is on low level GPGPU systems, and the intersection of Computer Graphics and Artificial Intelligence / Machine Learning.
 
-You can also check my [vimeo](https://vimeo.com/user29307828) and [youtube](https://www.youtube.com/channel/UCiuT9t87PFXYyD41Tkn0q6w) for some (old-ish) experiments.
+Currently building Digital Twins tools at Prevu3D. Previously building [Virtual Production](https://www.youtube.com/watch?v=Bn-QU4iGbw0) tools at Unity, at the crossroads of gaming and film. Before that, Lead Unity and R&D Developer at [Dpt](https://dpt.co/en/). My interests are in GPU Programming, Computer Graphics, Generative and Procedural Systems, Artificial Intelligence, Audio Programming...
+
+_You can also check my [vimeo](https://vimeo.com/user29307828) and [youtube](https://www.youtube.com/channel/UCiuT9t87PFXYyD41Tkn0q6w) for some old experiments._
 
 # Personal Projects
 
-_I distinguish between recent projects and those preceding my time at Unity._
+My personal projects are a means to learn and explore ideas.
+
+_I distinguish between recent projects and those preceding my time at Unity. As the transition from Creative Development (intersection of art and technology) to Software Engineering (2018) has been a significant pivot during my career._
 
 ## Recent
 
+* [OptixGaussianRenderer](https://github.com/etienne-p/OptixGaussianRenderer) | A Gaussian Splats Ray Tracer built from scratch with Optix & CUDA.
 * [CUDAGaussianRenderer](https://github.com/etienne-p/CUDAGaussianRenderer) | A Gaussian Splats Renderer built from scratch with CUDA.
 * [Line-Disc-Distance](https://github.com/etienne-p/Line-Disc-Distance) | Distance between a line and a disc.
 * [CUDA-Photogrammetry-Rotation-Estimation](https://github.com/etienne-p/CUDA-Photogrammetry-Rotation-Estimation) | Estimation of the rotation of a geometric dataset based on its normals. Implemented using CUDA.
