@@ -14,6 +14,7 @@ _I distinguish between recent projects and those preceding my time at Unity. As 
 
 ## Recent
 
+* [GaussianSplatsGradientFlow](https://github.com/etienne-p/GaussianSplatsGradientFlow) | A python implementation of the Gaussian Splats Optimization process.
 * [OptixGaussianRenderer](https://github.com/etienne-p/OptixGaussianRenderer) | A Gaussian Splats Ray Tracer built from scratch with Optix & CUDA.
 * [CUDAGaussianRenderer](https://github.com/etienne-p/CUDAGaussianRenderer) | A Gaussian Splats Renderer built from scratch with CUDA.
 * [Line-Disc-Distance](https://github.com/etienne-p/Line-Disc-Distance) | Distance between a line and a disc.
@@ -22,7 +23,7 @@ _I distinguish between recent projects and those preceding my time at Unity. As 
 * [UnityGaussianMixtureModel](https://github.com/etienne-p/UnityGaussianMixtureModel) | An implementation of a Gaussian Mixture Model (Machine Learning Clustering technique) in Unity using Compute Shaders.
 * [UnityMorphologicalAntialiasing](https://github.com/etienne-p/UnityMorphologicalAntialiasing) | An implementation of Morphological Antialiasing for Unity's Universal Render Pipeline.
 
-## Visual
+## Visual (2017 and earlier)
 
 * [UnityParticleGalaxyGPGPU](https://github.com/etienne-p/UnityParticleGalaxyGPGPU) | A galaxy particle system running on the GPU, made with Unity.
 * [UnityOcean](https://github.com/etienne-p/UnityOcean) | Ocean procedural modelisation, made with Unity.
@@ -34,14 +35,14 @@ _I distinguish between recent projects and those preceding my time at Unity. As 
 * [UnityParticleFlow](https://github.com/etienne-p/UnityParticleFlow) | GPU based particle system. Particles move along a user designed Vector Field. Made with Unity, compatible with WebGL.
 * [Marine Creatures](https://vimeo.com/129248908) | Procedural marine creatures animation, made with Cinder in C++.
 
-## Sound
+## Sound (2017 and earlier)
 
 * [CSoundGeneticSynthesis](https://github.com/etienne-p/CSoundGeneticSynthesis) | Genetic Programming Applied To Sound Synthesis. An Evolutionary Algorithm is used to generate audio synthesis CSound code. See the [pdf file](https://github.com/etienne-p/CSoundGeneticSynthesis/blob/master/EvolutionarySynthesis.pdf) in the repository.
 * [UnityLibPD](https://github.com/etienne-p/UnityLibPD) | An integration of Pure Data (Visual Audio Programming) in Unity using the Native Audio API
 * [Pluck](https://vimeo.com/161510988) | Experimental audio creation app for mobile devices, [made with openFrameworks in C++ (github)](https://github.com/etienne-p/Pluck).
 * [DrumBot](https://vimeo.com/113220254) | A drum machine using a cellular automaton as its sequencer, [made with SuperCollider (github)](https://github.com/etienne-p/DrumBot).
 
-## Miscellaneous
+## Miscellaneous (2017 and earlier)
 
 * [Hexapod](https://vimeo.com/210086693) | Custom 3D printed hexapod robot [powered by Arduino (github)](https://github.com/etienne-p/ArduinoHexapod).
 Includes a [simulator (github)](https://github.com/etienne-p/UnityHexapodSimulator), made with Unity.
