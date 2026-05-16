@@ -4,24 +4,27 @@ Self taught, curious, always eager to learn. My current focus is on low level GP
 
 Currently building Digital Twins tools at Prevu3D. Previously building [Virtual Production](https://www.youtube.com/watch?v=Bn-QU4iGbw0) tools at Unity, at the crossroads of gaming and film. Before that, Lead Unity and R&D Developer at [Dpt](https://dpt.co/en/). My interests are in GPU Programming, Computer Graphics, Generative and Procedural Systems, Artificial Intelligence, Audio Programming...
 
-_You can also check my [vimeo](https://vimeo.com/user29307828) and [youtube](https://www.youtube.com/channel/UCiuT9t87PFXYyD41Tkn0q6w) for some old experiments._
+_You can also check my [vimeo](https://vimeo.com/user29307828) and [youtube](https://www.youtube.com/channel/UCiuT9t87PFXYyD41Tkn0q6w) for some **old** experiments._
 
 # Personal Projects
 
-My personal projects are a primarily a way to learn and explore ideas.
+My personal projects are primarily a way to learn and explore ideas. Some are listed below, ordered chronologically / thematically. I do distinguish between the pre-LLM days and the current LLM-powered era.
 
-_I distinguish between recent projects and those preceding my time at Unity. As the transition from Creative Development (intersection of art and technology) to Software Engineering (2018) has been a significant pivot during my career._
+_I also distinguish between recent projects and those preceding my time at Unity. As the transition from Creative Development (intersection of art and technology) to Software Engineering (2018) has been a significant pivot during my career._
 
-## Recent
+## Recent (Post LLM)
 
 * [GaussianSplatsGradientFlow](https://github.com/etienne-p/GaussianSplatsGradientFlow) | A python implementation of the Gaussian Splats Optimization process.
+
+## Recent (Pre LLM)
+
 * [OptixGaussianRenderer](https://github.com/etienne-p/OptixGaussianRenderer) | A Gaussian Splats Ray Tracer built from scratch with Optix & CUDA.
 * [CUDAGaussianRenderer](https://github.com/etienne-p/CUDAGaussianRenderer) | A Gaussian Splats Renderer built from scratch with CUDA.
-* [Line-Disc-Distance](https://github.com/etienne-p/Line-Disc-Distance) | Distance between a line and a disc.
 * [CUDA-Photogrammetry-Rotation-Estimation](https://github.com/etienne-p/CUDA-Photogrammetry-Rotation-Estimation) | Estimation of the rotation of a geometric dataset based on its normals. Implemented using CUDA.
 * [ofxPolygonTriangulation](https://github.com/etienne-p/ofxPolygonTriangulation) | an OpenFrameworks addon for Computational Geometry in C++.
 * [UnityGaussianMixtureModel](https://github.com/etienne-p/UnityGaussianMixtureModel) | An implementation of a Gaussian Mixture Model (Machine Learning Clustering technique) in Unity using Compute Shaders.
 * [UnityMorphologicalAntialiasing](https://github.com/etienne-p/UnityMorphologicalAntialiasing) | An implementation of Morphological Antialiasing for Unity's Universal Render Pipeline.
+* [Line-Disc-Distance](https://github.com/etienne-p/Line-Disc-Distance) | Distance between a line and a disc.
 
 ## Visual (2017 and earlier)
 
