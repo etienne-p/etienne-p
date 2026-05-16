@@ -8,7 +8,7 @@ _You can also check my [vimeo](https://vimeo.com/user29307828) and [youtube](htt
 
 # Personal Projects
 
-My personal projects are a means to learn and explore ideas.
+My personal projects are a primarily a way to learn and explore ideas.
 
 _I distinguish between recent projects and those preceding my time at Unity. As the transition from Creative Development (intersection of art and technology) to Software Engineering (2018) has been a significant pivot during my career._
 
